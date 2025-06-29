@@ -97,4 +97,4 @@ $ bun run dev
 
 ## 效果展示
 
-![image-task5](./assets/image-task5.png)
+![img-task5](./assets/img-task5.png)
